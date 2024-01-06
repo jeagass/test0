@@ -1,0 +1,260 @@
+header{
+   background-size: 1000px;
+   
+}
+nav{
+   backdrop-filter: brightness(50px);
+}
+
+#bloc1{
+   background-size: cover;
+   background-blend-mode: color-burn;
+   background-image: url(images/back1.jpg); 
+   background-repeat: no-repeat;
+   backdrop-filter: brightness(60%);
+   background-color: grey; 
+   color: white;
+}
+
+.logo{
+   backdrop-filter: brightness(50px);
+   padding-top: 60px;
+   font-size: 30px;
+   padding-left: 10%;
+}
+
+ .home{
+   backdrop-filter: brightness(50px);
+    padding-top: 80px;
+    padding-left: 20%;
+ }
+
+ .about{
+   backdrop-filter: brightness(50px);
+    padding-top: 80px;
+    padding-left: 3%;
+ }
+
+ .amenities{
+   backdrop-filter: brightness(50px);
+   padding-top: 80px;
+   padding-left: 3%;
+ }
+
+ .blog{
+   backdrop-filter: brightness(50px);
+   padding-top: 80px;
+   padding-left: 3%;
+}
+
+.contact{
+   backdrop-filter: brightness(50px);
+   padding-top: 80px;
+   padding-left: 3%;
+}
+
+.call{
+   backdrop-filter: brightness(50px);
+   padding-top: 80px;
+   padding-left: 3%;
+}
+
+.text{
+   text-align: center;
+   text-align:  center;
+   font-size: 50px;
+   padding-top: 90px;
+}
+
+.explorebutt{
+   text-align: center;
+   font-size: 18px;
+   width: 150px;
+   height: 47px;
+   padding-top: 9px;
+   margin-top: 50px;
+   border-radius: 30px;
+   background-color: rgb(59, 194, 196);
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 200px;
+}
+#leftpart{
+   margin-top: 70px;
+   padding-left: 60px;
+}
+
+#wemcome{
+   font-size: 20px;
+   padding-top: 100px;
+   color: rgb(255, 89, 0);
+}
+
+.lxrrst{
+   font-size: 50px;
+}
+
+.text2{
+   font-size: 15px;
+}
+
+.moreresortbutt{
+   font-size: 18px;
+   width: 150px;
+   height: 47px;
+   padding-top: 9px;
+   color: white;
+   margin-top: 50px;
+   padding-left: 20px;
+   border-radius: 30px;
+   background-color: rgb(59, 194, 196);
+}
+
+.moreresortbutt:hover{
+   background-color: rgb(255, 89, 0);
+}
+.explorebutt:hover{
+   background-color: rgb(0, 0, 0);
+}
+
+#bloc2{
+   background-color: rgba(250, 250, 250, 0.79);
+   height: 450px;
+}
+
+#rightpart{
+   background-color: rgb(44, 44, 50);
+   height: 450px;
+   padding-top: 36px;
+   padding-left: 0px;
+}
+
+#back3{
+   height: 300px;
+   width: 279px;
+   margin-top: 85px;
+   padding-left: 10px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.tripadvisor{
+   
+   padding-top: 20px;
+   background-color: rgb(59, 194, 196);
+   color: white;
+   text-align: center;
+   height: 300px;
+   width: 260px;
+   margin-top: 50px;
+}
+
+#markk1{
+   font-size: 100px;
+}
+
+.trip{
+   font-size: 20px;
+}
+
+#leftpart1{
+   background-image: url(images/back3.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 600px;
+   padding-top: 400px;
+
+}
+
+.text3{
+   background-color: white;
+   font-size: 30px;
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 15px;
+   padding: auto;
+   width: 300px;
+}
+
+#rightpart1{
+   padding-left: 60px;
+   padding-top: 30px;
+}
+
+.relax{
+   color: rgb(255, 89, 0);
+   font-size: 20px;
+}
+
+.enjoy{
+   font-weight: bold;
+   font-size: 50px;
+}
+
+#block2{
+   margin-top: 20px;
+}
+
+#bloc4{
+   background-color:rgb(240, 85, 47);
+   font-size: 25px;
+   color: white;
+   text-align: center;
+   padding-top: 80px;
+   font-family: Arial;
+   padding-bottom: 50px;
+}
+#bloc5{   
+   padding-top: 50px;
+   background-color:rgba(250, 250, 250, 0.79);
+   text-align: center;
+}
+#bloc6{
+   background-color:rgba(250, 250, 250, 0.79);
+   
+
+}
+
+.title1{
+   font-size: 30px;
+}
+
+.relax1{
+   color: rgb(255, 89, 0);
+   font-size: 20px;
+   text-align: center;
+}
+
+.featured{
+   font-size: 50px;
+   text-align: center;
+}
+
+#single{
+   padding-top: 200px;
+   background-color: white;
+   height: 500px;
+   width: 310px;
+   margin-top: 50px;
+   margin-left: 45px;
+}
+ 
+#double{
+   padding-top: 200px;
+   background-color: white;
+   height: 500px;
+   width: 310px;
+   margin-left:25px;
+   margin-top: 50px;
+}
+
+#deluxe{
+   padding-top: 200px;
+   background-color: white;
+   height: 500px;
+   width: 310px;
+   margin-left:25px;
+   margin-top: 50px;
+}
